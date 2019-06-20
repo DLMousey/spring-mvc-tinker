@@ -6,5 +6,6 @@
 </head>
 <body>
     <h1>Yay! ${user} made it</h1>
+    <h2>${welcomeMessage}</h2>
 </body>
 </html>
