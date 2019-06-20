@@ -5,6 +5,6 @@
     <title>JSP works!</title>
 </head>
 <body>
-    <h1>Yay!</h1>
+    <h1>Yay! ${user} made it</h1>
 </body>
 </html>
